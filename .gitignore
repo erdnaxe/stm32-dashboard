@@ -1,0 +1,9 @@
+Debug/
+Fonts/
+Drivers/
+Middlewares/
+FATFS/
+USB_HOST/
+*.ld
+*.launch
+.settings/
